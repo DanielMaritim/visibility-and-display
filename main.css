@@ -1,0 +1,12 @@
+h1.one{
+	visibility:hidden;
+}
+h1.two {
+	display:none;
+}
+
+/*the display property displays how and if an element is displayed
+the visibility property determines wether an element should be seen or not
+visibility will hide the element but will take up the same space
+display takes away the element completely as if the element is not there
+one can also use block or inline properties to display content*/
