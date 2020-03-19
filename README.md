@@ -9,3 +9,5 @@ Keyword values
 visibility: visible;
 visibility: hidden;
 visibility: collapse;
+
+visible property shows the element box is visible.
