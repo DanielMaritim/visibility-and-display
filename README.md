@@ -12,4 +12,4 @@ visibility: collapse;
 
 The visible property shows the element box is visible.
 
-The hidden property shows the element box is invisible 
+The hidden property shows the element box is invisible but affects layout as normal. 
